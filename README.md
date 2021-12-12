@@ -31,7 +31,7 @@
 
 Land use describes the use of land surfaces by humans. Land cover describes physical features that occupy the surface of the Earth, such as water, forest, urban structures, vegetation, etc.
 
-We rely on accurate land use data for both scientific and administrative purposes. In particular, land cover and land use data are critical in effective planning to ensure that different structures are positioned on the landscape in a rational manner. For example, land use information can be used to ensure that residential neighborhoods are positioned close to commercial centers and transportation services and distant from industrial areas. Land use data is also an important components of climatic and hydrologic modelling such as estimating the runoff of rainfall from varied surfaces into stream systems.
+We rely on accurate land use data for both scientific and administrative purposes. In particular, land cover and land use data are critical to achieve sustainable urban development. For example, land use information can be used to ensure that residential neighborhoods are positioned close to commercial centers and transportation services, and far from industrial areas. Land use data is also an important components of climatic and hydrologic modelling such as estimating the runoff of rainfall from varied surfaces into stream systems.
 
 While it is possible to acquire land use and land cover data through direct observation by visiting each site in person, this process can be costly and time consuming. A more efficient approach is to use satellite imagery and machine learning to automate the process.
 
