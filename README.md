@@ -60,7 +60,7 @@ The repository contains three Jupyter notebooks:
 
 This notebook is developed on the Google Colaboratory and does not have any dependencies. To open the notebooks, select a notebook to open in Github and then click the `Open in Colab` icon.
 
-However, ensure that you have the following directory structure in your Google Drive. Images to use for inference can be downloaded from here. Please place these images in the `Inference_Data` directory.
+However, ensure that you have the following directory structure in your Google Drive. Images to use for inference can be downloaded from [here](https://drive.google.com/drive/folders/11qVbE9eXtTpbBSwACYpB6__UtfDAp6iF?usp=sharing). Please place these images in the `Inference_Data` directory in your Google Drive.
 
 ```
 /content/drive/MyDrive/Colab Notebooks/LandCoverClassification
